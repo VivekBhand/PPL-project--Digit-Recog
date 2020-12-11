@@ -1,4 +1,4 @@
-# PPL-project--Digit-Recog
+# PPL-project--Devnagari-Digit-Recog
 
 Vivek Bhand- 111903129
 
